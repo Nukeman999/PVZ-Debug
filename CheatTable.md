@@ -3,6 +3,7 @@
  These are the Cheats for The PVZ Demo
 
  <cheats>    
+  <enabled>true<enabled>
     <bind keyCombo="`">globalPause</bind>
     <!-- Framework controls -->
     <bind keyCombo="F1">toggleDebug</bind>
