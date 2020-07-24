@@ -1,5 +1,7 @@
 # PVZ-Debug
  
+This is the Cheat Table for the Pvz Flash Demo!
+
  ```<cheats>
     <enabled>true</enabled>
     
@@ -31,4 +33,4 @@
     <bind keyCombo="p">spawnPolevaultZombieCheat</bind>
     <bind keyCombo="g">spawnGraveZombieCheat</bind>
     <bind keyCombo="u">unlockAllModes</bind>
-  </cheats>```
+  </cheats>
