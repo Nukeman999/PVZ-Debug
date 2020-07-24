@@ -1,7 +1,8 @@
 # PVZ-Debug
  
- <cheats>    
-  <enabled>true<enabled>
+ ```<cheats>
+    <enabled>true</enabled>
+    
     <bind keyCombo="`">globalPause</bind>
     <!-- Framework controls -->
     <bind keyCombo="F1">toggleDebug</bind>
@@ -30,4 +31,4 @@
     <bind keyCombo="p">spawnPolevaultZombieCheat</bind>
     <bind keyCombo="g">spawnGraveZombieCheat</bind>
     <bind keyCombo="u">unlockAllModes</bind>
-  </cheats>
+  </cheats>```
